@@ -1,1 +1,1 @@
-#STEALTH Developer Organization
+# STEALTH Developers' Organization
